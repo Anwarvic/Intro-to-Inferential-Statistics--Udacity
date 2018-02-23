@@ -2,6 +2,16 @@
 
 This repo contains my solution to the Udacity course "[Intro to Inferential Statistics](https://eg.udacity.com/course/intro-to-inferential-statistics--ud201)". Statistics is an important field of math that is used to analyze, interpret, and predict outcomes from data. Inferential statistics allows us to draw conclusions from data that might not be immediately obvious. This course focuses on enhancing your ability to develop hypotheses and use common tests such as t-tests, ANOVA tests, and regression to validate your claims.
 
+In this course, we will learn basic tools of inferential statistics which will cover:
+
+- estimating parameters of a population using sample statistics.
+- hypothesis testing and confidence intervals.
+- t-tests and ANOVA.
+- correlation and regression.
+- chi-squared test.
+
+
+
 This course assumes basic understanding of Descriptive Statistics, specifically the following:
 
 - calculating the mean and standard deviation of a data set
@@ -9,6 +19,8 @@ This course assumes basic understanding of Descriptive Statistics, specifically 
 - interpreting probability and probability distributions
 - normal distributions and sampling distributions
 - normalizing observations
+
+
 
 
 # About
